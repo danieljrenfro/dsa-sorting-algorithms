@@ -128,3 +128,6 @@ function partition(array, start, end) {
   // return the j index, everything to the left is less than the pivot, everything to the right is greater than the pivot
   return j;
 }
+
+// 1. Understanding merge sort
+* 1  2  9  21  26  28  29  45  16  27  34  39  40  43  46  49       
